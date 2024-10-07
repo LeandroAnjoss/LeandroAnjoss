@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeandroAnjoss
-- 👀 I’m interested in Js, figma, css e html 
+- 👀 I’m interested in Js, php, css e html 
 - 🌱 I’m currently learning figma.
 - 💞️ I’m looking to collaborate on front end in my future job
 - 📫 How to reach me email:leandro.anjos1@icloud.com.com 👽
